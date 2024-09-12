@@ -9,7 +9,7 @@ An experimental machine learning project designed to identify fake news and misl
 - Random Forest
 - Naive Bayes
 - Multilayer Perceptron (MLP)
-- Long Short-Term Memory (LSTM)
+- Gradient Boosting Machine
 
 ## Installation
 
